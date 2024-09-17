@@ -1,4 +1,10 @@
 # Act8_clasesv2
+## Clases
+- codigo
+- ![image](https://github.com/user-attachments/assets/77b6a2e0-9513-426d-8875-876f8c55b737)
+- resultado
+- ![image](https://github.com/user-attachments/assets/33073319-3353-4625-b767-7a17ae32c596)
+
 ## Listas clases 
 - codigo
 - ![image](https://github.com/user-attachments/assets/7abee333-ee2c-4e48-b236-2df7e807d311)
